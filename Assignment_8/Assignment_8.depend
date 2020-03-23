@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1529097677 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 6\assignment_8\dispensertype.cpp
+	<iostream>
+	"dispenserType.h"
+
+1529097616 c:\users\roo\desktop\computer sceince 1\assignments\assignment 6\assignment_8\dispensertype.h
+
+1529099190 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 6\assignment_8\cashregistertype.cpp
+	<iostream>
+	"cashRegisterType.h"
+
+1529099167 c:\users\roo\desktop\computer sceince 1\assignments\assignment 6\assignment_8\cashregistertype.h
+
+1529109626 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 6\assignment_8\main.cpp
+	<iostream>
+	"cashRegisterType.h"
+	"dispenserType.h"
+	<iomanip>
+
+1529099190 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 8\assignment_8\cashregistertype.cpp
+	<iostream>
+	"cashRegisterType.h"
+
+1529194605 c:\users\roo\desktop\computer sceince 1\assignments\assignment 8\assignment_8\cashregistertype.h
+
+1529097677 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 8\assignment_8\dispensertype.cpp
+	<iostream>
+	"dispenserType.h"
+
+1529194411 c:\users\roo\desktop\computer sceince 1\assignments\assignment 8\assignment_8\dispensertype.h
+
+1529194952 source:c:\users\roo\desktop\computer sceince 1\assignments\assignment 8\assignment_8\main.cpp
+	<iostream>
+	"cashRegisterType.h"
+	"dispenserType.h"
+	<iomanip>
+
